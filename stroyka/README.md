@@ -1,0 +1,1 @@
+go run cmd/blog/handlers.go cmd/blog/main.go 
