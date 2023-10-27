@@ -17,11 +17,14 @@ body{
     width: 100%;
 }
 .info-uppest__title{
-    width: 245px;
+    width: 17%;
     background-repeat: no-repeat;
     background-size: cover;
     border: none;
     margin-left: 31px;
+}
+.title__photo{
+    width: 100%;
 }
 .info-uppest__content{
     display: flex;
@@ -75,10 +78,16 @@ a{
     gap: 36px;
 }
 .photos__main-photo{
-    background-image: url("../images/header-photo.png");
-    background-size: cover;
-    height: 328px;
-    width: 1040px;
+    width: 72%;
+}
+.photos__sub-photo{
+    width: 72%;
+}
+.main-photo__photo{
+    width: 100%;
+}
+.sub-photo__photo{
+    width: 100%;
 }
 .header__info-lowest{
     display: flex;
